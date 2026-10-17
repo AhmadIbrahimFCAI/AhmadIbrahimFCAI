@@ -13,8 +13,8 @@
 </div>
 
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=AhmedIbrahimFCAL.AhmedIbrahimFCAL&"  />
-  <img alt="GitHub followers" src="https://img.shields.io/github/followers/AhmedIbrahimFCAL">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=AhmadIbrahimFCAI.AhmadIbrahimFCAI&"  />
+  <img alt="GitHub followers" src="https://img.shields.io/github/followers/AhmadIbrahimFCAI">
 </p>
 
 
@@ -76,27 +76,27 @@
 
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedIbrahimFCAL&theme=github-dark&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AhmadIbrahimFCAI&theme=github-dark&hide_border=true" />
 </p>
 
-[![AhmedIbrahim's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AhmedIbrahimFCAL&theme=github-compact)](https://github.com/AhmedIbrahimFCAL/github-readme-activity-graph)
+[![AhmedIbrahim's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AhmadIbrahimFCAI&theme=github-compact)](https://github.com/AhmadIbrahimFCAI/github-readme-activity-graph)
 
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=AhmedIbrahimFCAL&show_icons=true&theme=radical" height="150" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=AhmadIbrahimFCAI&show_icons=true&theme=radical" height="150" />
   &nbsp;
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AhmedIbrahimFCAL&layout=compact&theme=radical" height="150" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AhmadIbrahimFCAI&layout=compact&theme=radical" height="150" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AhmedIbrahimFCAL/AhmedIbrahimFCAL/main/profile-3d-contrib/profile-night-view.svg" alt="3D Graph" />
+  <img src="https://raw.githubusercontent.com/AhmadIbrahimFCAI/AhmadIbrahimFCAI/main/profile-3d-contrib/profile-night-view.svg" alt="3D Graph" />
 </p>
 
 ---
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AhmedIbrahimFCAL/AhmedIbrahimFCAL/pacman-output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AhmedIbrahimFCAL/AhmedIbrahimFCAL/pacman-output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/AhmedIbrahimFCAL/AhmedIbrahimFCAL/pacman-output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AhmadIbrahimFCAI/AhmadIbrahimFCAI/pacman-output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AhmadIbrahimFCAI/AhmadIbrahimFCAI/pacman-output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/AhmadIbrahimFCAI/AhmadIbrahimFCAI/pacman-output/pacman-contribution-graph.svg">
 </picture>
